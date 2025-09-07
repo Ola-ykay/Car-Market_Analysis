@@ -2,7 +2,6 @@
 
 ## Table of Content
 - [Project Overview](#project-overview)
-- [Goal](#goal)
 - [Tools Used](#tools-used)
 - [KPIs](#kpis)  
 - [Insights](#insights)
@@ -13,27 +12,27 @@ The goal of this project is to explore the Nigerian car market using available d
 
 
 ## Tools Used
-Tool: Microsoft Excel
-Data Cleaning & Transformation – via Power Query
-Pivot Table & Pivot Chart creation
+- Microsoft Excel
+- Data Cleaning & Transformation – via Power Query
+- Pivot Table & Pivot Chart creation
 
-## KPI
-▫️Average Price
-▫️Average Mileage
-▫️Average Horsepower
-▫️Average Engine Size
+## KPIs
+- Average Price
+- Average Mileage
+- Average Horsepower
+- Average Engine Size
 
 ## Insights
-▫️Top 10 most popular car models
-▫️Top 10 car colors
-▫️Cars by location
-▫️Cars by transmission type (automatic vs. manual)
+- Top 10 most popular car models
+- Top 10 car colors
+- Cars by location
+- Cars by transmission type (automatic vs. manual)
 
   
 ## Slicer
 Filter by Condition
 
 ## Data Snapshots
-![Dataset]()
-![Calculation]()
-![Dashboard]()
+![Dataset](https://github.com/Ola-ykay/Car-Market_Analysis/blob/main/car-dataset.png)
+![Analysis](https://github.com/Ola-ykay/Car-Market_Analysis/blob/main/car-analysis.png)
+![Dashboard](https://github.com/Ola-ykay/Car-Market_Analysis/blob/main/car-dashboard.png)
